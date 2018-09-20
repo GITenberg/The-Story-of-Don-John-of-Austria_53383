@@ -1,5 +1,5 @@
 _repo: The-Story-of-Don-John-of-Austria_53383
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Moreton, Lady
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1944
     gutenberg_agent_id: '33917'
     url: http://www.gutenberg.org/2009/agents/33917
+covers:
+- cover_type: archival
+  image_path: 53383-h/images/cover.jpg
 creator:
   author:
     agent_name: Coloma, Luis
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '9025'
     url: http://www.gutenberg.org/2009/agents/9025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53383#The-Story-of-Don-John-of-Austria
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2016-10-27'
 gutenberg_type: Text
