@@ -1,0 +1,40 @@
+_repo: The-Story-of-Don-John-of-Austria_53383
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Moreton, Lady
+    aliases:
+    - Moreton, Ada Margarette Smith, Lady
+    - Moreton, Ada Margarette, Lady
+    - Smith, Ada Margarette
+    deathdate: 1944
+    gutenberg_agent_id: '33917'
+    url: http://www.gutenberg.org/2009/agents/33917
+creator:
+  author:
+    agent_name: Coloma, Luis
+    aliases:
+    - Roldán, Luis Coloma
+    - Roldan, Luis Coloma
+    birthdate: 1851
+    deathdate: 1915
+    gutenberg_agent_id: '9025'
+    url: http://www.gutenberg.org/2009/agents/9025
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2016-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53383'
+  lccn: '13035652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- Philip II, 1556-1598'
+- !lcc 'DH'
+- !lcsh 'John, of Austria, 1547-1578'
+- GITenberg
+title: The Story of Don John of Austria
+url: http://www.gutenberg.org/ebooks/53383
